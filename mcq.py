@@ -1,4 +1,11 @@
+""" 
+                           #  About this Program #
+                           ==========================
 
+This is a console based Quiz Program using various concepts of python programming and several  
+modules like time and playsound to make it more interactive and user friendly .
+
+"""
 import playsound as pt
 import time
 print("\t\t\t\t\t\t",chr(128329))

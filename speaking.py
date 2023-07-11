@@ -1,3 +1,16 @@
+""" 
+                                                 About this program 
+                                              *************************
+
+ This is a python weather program using request module will get you the data of the city given by the User to make it more interactive  added gTTS 
+ module is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file. The gTTS API supports several languages 
+ including English, Hindi, Tamil, French, German and many more.The speech can be delivered in any one of the two available audio speeds, fast or slow. 
+ and using playsound module play that weather data.
+                        
+
+
+"""
+
 from gtts import gTTS
 import playsound as py
 import requests

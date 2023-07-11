@@ -2,6 +2,10 @@
                            #  About this Program #
                            ==========================
 
+This is a python program named as 'Text-to-speak' converter using gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with 
+Google Translate text-to-speech API. gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file. 
+The gTTS API supports several languages includingEnglish, Hindi, Tamil, French, German and many more. The speech can be delivered in any one of the
+two available audio speeds, fast or slow.and playsound module to play that mp3 file .
 
 
 """
